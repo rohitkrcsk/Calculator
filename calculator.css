@@ -1,0 +1,26 @@
+#cal{
+    border: 1px solid black;
+    border-radius: 5px;
+    width:220px;
+    background-color: antiquewhite;
+    
+}
+#display{
+    margin:10px;
+    width:86%;
+    font-size:30px;
+    background-color: rgb(224, 222, 222);
+    border:2px solid black;
+}
+#btn-container{
+    display:flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.btn{
+    width:52px;
+    height:52px;
+    margin:3px;
+    font-size:180%;
+    background-color: rgb(243, 197, 180);
+}
